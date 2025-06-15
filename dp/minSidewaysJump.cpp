@@ -1,3 +1,8 @@
+#include <vector>
+#include <algorithm>
+#include <climits>
+using namespace std;
+
 class Solution {
 public:
     int solve(vector<int>& obstacles, int i, int n, int j) {
